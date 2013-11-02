@@ -1,4 +1,4 @@
-# Unicode Emonjis for Pidgin
+# Unicode Emojis for Pidgin
 
 This repository contains three sets of emojis:
 
