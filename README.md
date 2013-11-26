@@ -22,7 +22,7 @@ Other chat partners might want to install either the Symbola or Android TrueType
 
 #### Licence
 
-Apple Emoji images are teken from [Github's gemoji](https://github.com/github/gemoji) project. The icons are copyright of Apple Inc. See the license for details.
+Apple Emoji images are taken from [Github's gemoji](https://github.com/github/gemoji) project. The icons are copyright of Apple Inc. See the license for details.
 
 Android Emoji font Copyright © 2008 The Android Open Source Project. Licensed under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0) and includes this [notice](https://s3-eu-west-1.amazonaws.com/tw-font/android/NOTICE).
 
