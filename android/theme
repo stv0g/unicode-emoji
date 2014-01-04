@@ -4,44 +4,64 @@ Icon=1f601.png
 Author=Steffen Vogel
 
 [default]
-1f601.png	😁
-1f602.png	😂
-1f603.png	😃
-1f604.png	😄
+263a.png	☺	
+1f601.png	😁	
+1f602.png	😂	
+1f603.png	😃	
+1f604.png	😄	
 1f605.png	😅
 1f606.png	😆
-1f609.png	😉
-1f60a.png	😊
+1f609.png	😉	
+1f60a.png	😊	
 1f60b.png	😋
-1f60c.png	😌
-1f60d.png	😍
-1f60f.png	😏
-1f612.png	😒
-1f613.png	😓
-1f614.png	😔
-1f616.png	😖
-1f618.png	😘
-1f61a.png	😚
-1f61c.png	😜
-1f61d.png	😝
-1f61e.png	😞
-1f620.png	😠
-1f621.png	😡
-1f622.png	😢
-1f623.png	😣
+1f60c.png	😌	
+1f60d.png	😍	
+1f60f.png	😏	
+1f612.png	😒	
+1f613.png	😓	
+1f614.png	😔	
+1f616.png	😖	
+1f618.png	😘	
+1f61a.png	😚	
+1f61c.png	😜	
+1f61d.png	😝	
+1f61e.png	😞	
+1f620.png	😠	
+1f621.png	😡	
+1f622.png	😢	
+1f623.png	😣	
 1f624.png	😤
-1f625.png	😥
-1f628.png	😨
+1f625.png	😥	
+1f628.png	😨	
 1f629.png	😩
-1f62a.png	😪
+1f62a.png	😪	
 1f62b.png	😫
-1f62d.png	😭
-1f630.png	😰
-1f631.png	😱
-1f632.png	😲
-1f633.png	😳
+1f62d.png	😭	
+1f630.png	😰	
+1f631.png	😱	
+1f632.png	😲	
+1f633.png	😳	
 1f635.png	😵
-1f637.png	😷
+1f637.png	😷	
+1f600.png	😀
+1f607.png	😇
+1f608.png	😈
+1f60e.png	😎
+1f610.png	😐
+1f611.png	😑
+1f615.png	😕
+1f617.png	😗
+1f619.png	😙
+1f61b.png	😛
+1f61f.png	😟
+1f626.png	😦
+1f627.png	😧
+1f62c.png	😬
+1f62e.png	😮
+1f62f.png	😯
+1f634.png	😴
+1f636.png	😶
+
 1f638.png	😸
 1f639.png	😹
 1f63a.png	😺
@@ -51,267 +71,319 @@ Author=Steffen Vogel
 1f63e.png	😾
 1f63f.png	😿
 1f640.png	🙀
-1f645.png	🙅
-1f646.png	🙆
-1f647.png	🙇
+
+1f645.png	🙅	
+1f646.png	🙆	
+1f647.png	🙇	
 1f648.png	🙈
 1f649.png	🙉
 1f64a.png	🙊
 1f64b.png	🙋
-1f64c.png	🙌
+1f64c.png	🙌	
 1f64d.png	🙍
 1f64e.png	🙎
-1f64f.png	🙏
-2702.png	✂
+1f64f.png	🙏	
+
+2702.png	✂	
 2705.png	✅
-2708.png	✈
+2708.png	✈	
 2709.png	✉
-270a.png	✊
-270b.png	✋
-270c.png	✌
+270a.png	✊	
+270b.png	✋	
+270c.png	✌	
 270f.png	✏
 2712.png	✒
 2714.png	✔
 2716.png	✖
-2728.png	✨
-2733.png	✳
-2734.png	✴
+2728.png	✨	
+2733.png	✳	
+2734.png	✴	
 2744.png	❄
 2747.png	❇
-274c.png	❌
+274c.png	❌	
 274e.png	❎
 2753.png	❓
-2754.png	❔
-2755.png	❕
+2754.png	❔	
+2755.png	❕	
 2757.png	❗
-2764.png	❤
+2764.png	❤	
 2795.png	➕
 2796.png	➖
 2797.png	➗
-27a1.png	➡
+27a1.png	➡	
 27b0.png	➰
-1f680.png	🚀
-1f683.png	🚃
-1f684.png	🚄
-1f685.png	🚅
-1f687.png	🚇
-1f689.png	🚉
-1f68c.png	🚌
-1f68f.png	🚏
-1f691.png	🚑
-1f692.png	🚒
-1f693.png	🚓
-1f695.png	🚕
-1f697.png	🚗
-1f699.png	🚙
-1f69a.png	🚚
-1f6a2.png	🚢
-1f6a4.png	🚤
-1f6a5.png	🚥
-1f6a7.png	🚧
-1f6a8.png	🚨
+### FIXME: 27bf.png IS NOT IN THE SET OF PICTURES YET!
+### See: http://www.iemoji.com/view/emoji/280/symbols/double-curly-loop
+### After adding it, please comment in the upcoming line.
+#27bf.png	➿	
+
 1f6a9.png	🚩
 1f6aa.png	🚪
 1f6ab.png	🚫
-1f6ac.png	🚬
-1f6ad.png	🚭
-1f6b2.png	🚲
-1f6b6.png	🚶
-1f6b9.png	🚹
-1f6ba.png	🚺
-1f6bb.png	🚻
-1f6bc.png	🚼
-1f6bd.png	🚽
-1f6be.png	🚾
-1f6c0.png	🛀
+26d4.png	⛔
+1f6ac.png	🚬	
+1f6ad.png	🚭	
+
+1f6b6.png	🚶	
+1f6b9.png	🚹	
+1f6ba.png	🚺	
+1f6bb.png	🚻	
+1f6bc.png	🚼	
+1f6bd.png	🚽	
+1f6be.png	🚾	
+1f6c0.png	🛀	
 24c2.png	Ⓜ
-1f170.png	🅰
-1f171.png	🅱
-1f17e.png	🅾
-1f17f.png	🅿
-1f18e.png	🆎
+1f170.png	🅰	
+1f171.png	🅱	
+1f17e.png	🅾	
+1f17f.png	🅿	
+1f18e.png	🆎	
 1f191.png	🆑
-1f192.png	🆒
+1f192.png	🆒	
 1f193.png	🆓
-1f194.png	🆔
-1f195.png	🆕
+1f194.png	🆔	
+1f195.png	🆕	
 1f196.png	🆖
-1f197.png	🆗
+1f197.png	🆗	
 1f198.png	🆘
-1f199.png	🆙
-1f19a.png	🆚
-1f201.png	🈁
-1f202.png	🈂
-1f21a.png	🈚
-1f22f.png	🈯
+1f199.png	🆙	
+1f19a.png	🆚	
+1f201.png	🈁	
+1f202.png	🈂	
+1f21a.png	🈚	
+1f22f.png	🈯	
 1f232.png	🈲
-1f233.png	🈳
+1f233.png	🈳	
 1f234.png	🈴
-1f235.png	🈵
-1f236.png	🈶
-1f237.png	🈷
-1f238.png	🈸
-1f239.png	🈹
-1f23a.png	🈺
-1f250.png	🉐
+1f235.png	🈵	
+1f236.png	🈶	
+1f237.png	🈷	
+1f238.png	🈸	
+1f239.png	🈹	
+1f23a.png	🈺	
+1f250.png	🉐	
 1f251.png	🉑
 00a9.png	©
 00ae.png	®
 203c.png	‼
 2049.png	⁉
+0038-20e3.png	8⃣	
+0039-20e3.png	9⃣	
+0037-20e3.png	7⃣	
+0036-20e3.png	6⃣	
+0031-20e3.png	1⃣	
+0030-20e3.png	0⃣	
+0032-20e3.png	2⃣	
+0033-20e3.png	3⃣	
+0035-20e3.png	5⃣	
+0034-20e3.png	4⃣	
+0023-20e3.png	#⃣	
 2122.png	™
 2139.png	ℹ
 2194.png	↔
 2195.png	↕
-2196.png	↖
-2197.png	↗
-2198.png	↘
-2199.png	↙
+2196.png	↖	
+2197.png	↗	
+2198.png	↘	
+2199.png	↙	
 21a9.png	↩
 21aa.png	↪
-231a.png	⌚
-231b.png	⌛
-23e9.png	⏩
-23ea.png	⏪
+23e9.png	⏩	
+23ea.png	⏪	
 23eb.png	⏫
 23ec.png	⏬
+2934.png	⤴
+2935.png	⤵
+2b05.png	⬅	
+2b06.png	⬆	
+2b07.png	⬇	
+1f500.png	🔀
+1f501.png	🔁
+1f502.png	🔂
+1f504.png	🔄
+
+231a.png	⌚
+231b.png	⌛
 23f0.png	⏰
 23f3.png	⏳
+
 25aa.png	▪
 25ab.png	▫
-25b6.png	▶
-25c0.png	◀
+25b6.png	▶	
+25c0.png	◀	
 25fb.png	◻
 25fc.png	◼
 25fd.png	◽
 25fe.png	◾
-2600.png	☀
-2601.png	☁
-263a.png	☺
-2648.png	♈
-2649.png	♉
-264a.png	♊
-264b.png	♋
-264c.png	♌
-264d.png	♍
-264e.png	♎
-264f.png	♏
-2650.png	♐
-2651.png	♑
-2652.png	♒
-2653.png	♓
-2660.png	♠
-2663.png	♣
-2665.png	♥
-2666.png	♦
-2668.png	♨
+2600.png	☀	
+2601.png	☁	
+260e.png	☎	
+2611.png	☑
+2614.png	☔	
+2615.png	☕	
+261d.png	☝	
+
+2648.png	♈	
+2649.png	♉	
+264a.png	♊	
+264b.png	♋	
+264c.png	♌	
+264d.png	♍	
+264e.png	♎	
+264f.png	♏	
+2650.png	♐	
+2651.png	♑	
+2652.png	♒	
+2653.png	♓	
+2660.png	♠	
+2663.png	♣	
+2665.png	♥	
+2666.png	♦	
+2668.png	♨	
 267b.png	♻
-267f.png	♿
+267f.png	♿	
 2693.png	⚓
-26a0.png	⚠
-26a1.png	⚡
+26a0.png	⚠	
+26a1.png	⚡	
 26aa.png	⚪
 26ab.png	⚫
-26bd.png	⚽
-26be.png	⚾
-26c4.png	⛄
+
+26bd.png	⚽	
+26be.png	⚾	
+26c4.png	⛄	
 26c5.png	⛅
-26ce.png	⛎
-26d4.png	⛔
-26ea.png	⛪
-26f2.png	⛲
-26f3.png	⛳
-26f5.png	⛵
-26fa.png	⛺
-26fd.png	⛽
-2934.png	⤴
-2935.png	⤵
-2b05.png	⬅
-2b06.png	⬆
-2b07.png	⬇
+26ce.png	⛎	
+
+
+26ea.png	⛪	
+26f2.png	⛲	
+26f3.png	⛳	
+26f5.png	⛵	
+26fa.png	⛺	
+26fd.png	⛽	
+1f6b2.png	🚲	
+1f680.png	🚀	
+1f683.png	🚃
+1f684.png	🚄	
+1f685.png	🚅	
+1f687.png	🚇	
+1f689.png	🚉	
+### FIXME: 1f68b.png IS NOT IN THE SET OF PICTURES YET!
+### SEE: http://www.iemoji.com/view/emoji/156/places/tram-car
+### After adding it, please comment in the upcoming line.
+#1f68b.png	🚋	
+1f68c.png	🚌	
+1f68f.png	🚏	
+1f691.png	🚑	
+1f692.png	🚒	
+1f693.png	🚓	
+1f695.png	🚕	
+1f697.png	🚗	
+1f699.png	🚙	
+1f69a.png	🚚	
+1f6a2.png	🚢	
+1f6a4.png	🚤	
+1f6a5.png	🚥	
+1f6a6.png	🚦
+1f6a7.png	🚧	
+1f6a8.png	🚨
+1f681.png	🚁
+1f682.png	🚂
+1f686.png	🚆
+1f688.png	🚈
+1f68a.png	🚊
+1f68d.png	🚍
+1f68e.png	🚎
+1f690.png	🚐
+1f694.png	🚔
+1f696.png	🚖
+1f698.png	🚘
+1f69b.png	🚛
+1f69c.png	🚜
+1f69d.png	🚝
+1f69e.png	🚞
+1f69f.png	🚟
+1f6a0.png	🚠
+1f6a1.png	🚡
+1f6a3.png	🚣
+
 2b1b.png	⬛
 2b1c.png	⬜
 2b50.png	⭐
-2b55.png	⭕
+2b55.png	⭕	
 3030.png	〰
-303d.png	〽
-3297.png	㊗
-3299.png	㊙
-1f004.png	🀄
+303d.png	〽	
+3297.png	㊗	
+3299.png	㊙	
+1f004.png	🀄	
 1f0cf.png	🃏
-1f300.png	🌀
+1f300.png	🌀	
 1f301.png	🌁
-1f302.png	🌂
-1f303.png	🌃
-1f304.png	🌄
-1f305.png	🌅
-1f306.png	🌆
-1f307.png	🌇
-1f308.png	🌈
+1f302.png	🌂	
+
+1f303.png	🌃	
+1f304.png	🌄	
+1f305.png	🌅	
+1f306.png	🌆	
+1f307.png	🌇	
+1f308.png	🌈	
 1f309.png	🌉
-1f30a.png	🌊
+1f30a.png	🌊	
+
 1f30b.png	🌋
 1f30c.png	🌌
-1f30f.png	🌏
-1f311.png	🌑
-1f313.png	🌓
-1f314.png	🌔
-1f315.png	🌕
-1f319.png	🌙
-1f31b.png	🌛
-1f31f.png	🌟
-1f320.png	🌠
 1f330.png	🌰
 1f331.png	🌱
-1f334.png	🌴
-1f335.png	🌵
-1f337.png	🌷
-1f338.png	🌸
-1f339.png	🌹
-1f33a.png	🌺
-1f33b.png	🌻
+1f334.png	🌴	
+1f335.png	🌵	
+1f337.png	🌷	
+1f338.png	🌸	
+1f339.png	🌹	
+1f33a.png	🌺	
+1f33b.png	🌻	
 1f33c.png	🌼
 1f33d.png	🌽
-1f33e.png	🌾
+1f33e.png	🌾	
 1f33f.png	🌿
-1f340.png	🍀
-1f341.png	🍁
-1f342.png	🍂
-1f343.png	🍃
+1f340.png	🍀	
+1f341.png	🍁	
+1f342.png	🍂	
+1f343.png	🍃	
+
 1f344.png	🍄
-1f345.png	🍅
-1f346.png	🍆
+1f345.png	🍅	
+1f346.png	🍆	
 1f347.png	🍇
 1f348.png	🍈
-1f349.png	🍉
-1f34a.png	🍊
+1f349.png	🍉	
+1f34a.png	🍊	
 1f34c.png	🍌
 1f34d.png	🍍
-1f34e.png	🍎
+1f34e.png	🍎	
 1f34f.png	🍏
 1f351.png	🍑
 1f352.png	🍒
-1f353.png	🍓
-1f354.png	🍔
+1f353.png	🍓	
+1f354.png	🍔	
 1f355.png	🍕
 1f356.png	🍖
 1f357.png	🍗
-1f358.png	🍘
-1f359.png	🍙
-1f35a.png	🍚
-1f35b.png	🍛
-1f35c.png	🍜
-1f35d.png	🍝
-1f35e.png	🍞
-1f35f.png	🍟
+1f358.png	🍘	
+1f359.png	🍙	
+1f35a.png	🍚	
+1f35b.png	🍛	
+1f35c.png	🍜	
+1f35d.png	🍝	
+1f35e.png	🍞	
+1f35f.png	🍟	
 1f360.png	🍠
-1f361.png	🍡
-1f362.png	🍢
-1f363.png	🍣
+1f361.png	🍡	
+1f362.png	🍢	
+1f363.png	🍣	
 1f364.png	🍤
 1f365.png	🍥
-1f366.png	🍦
-1f367.png	🍧
+1f366.png	🍦	
+1f367.png	🍧	
 1f368.png	🍨
 1f369.png	🍩
 1f36a.png	🍪
@@ -320,258 +392,265 @@ Author=Steffen Vogel
 1f36d.png	🍭
 1f36e.png	🍮
 1f36f.png	🍯
-1f370.png	🍰
-1f371.png	🍱
-1f372.png	🍲
-1f373.png	🍳
-1f374.png	🍴
-1f375.png	🍵
-1f376.png	🍶
+1f370.png	🍰	
+1f371.png	🍱	
+1f372.png	🍲	
+1f373.png	🍳	
+1f374.png	🍴	
+
+1f375.png	🍵	
+1f376.png	🍶	
 1f377.png	🍷
-1f378.png	🍸
+1f378.png	🍸	
 1f379.png	🍹
-1f37a.png	🍺
-1f37b.png	🍻
-1f380.png	🎀
-1f381.png	🎁
-1f382.png	🎂
-1f383.png	🎃
-1f384.png	🎄
-1f385.png	🎅
-1f386.png	🎆
-1f387.png	🎇
-1f388.png	🎈
-1f389.png	🎉
+1f37a.png	🍺	
+1f37b.png	🍻	
+
+1f380.png	🎀	
+1f381.png	🎁	
+1f382.png	🎂	
+1f383.png	🎃	
+1f384.png	🎄	
+1f385.png	🎅	
+1f386.png	🎆	
+1f387.png	🎇	
+1f388.png	🎈	
+1f389.png	🎉	
 1f38a.png	🎊
 1f38b.png	🎋
-1f38c.png	🎌
-1f38d.png	🎍
-1f38e.png	🎎
-1f38f.png	🎏
-1f390.png	🎐
-1f391.png	🎑
-1f392.png	🎒
-1f393.png	🎓
+1f38c.png	🎌	
+1f38d.png	🎍	
+1f38e.png	🎎	
+1f38f.png	🎏	
+1f390.png	🎐	
+1f391.png	🎑	
+
+1f392.png	🎒	
+1f393.png	🎓	
+
 1f3a0.png	🎠
-1f3a1.png	🎡
-1f3a2.png	🎢
+1f3a1.png	🎡	
+1f3a2.png	🎢	
 1f3a3.png	🎣
-1f3a4.png	🎤
-1f3a5.png	🎥
-1f3a6.png	🎦
-1f3a7.png	🎧
-1f3a8.png	🎨
-1f3a9.png	🎩
+1f3a4.png	🎤	
+1f3a5.png	🎥	
+1f3a6.png	🎦	
+1f3a7.png	🎧	
+1f3a8.png	🎨	
+1f3a9.png	🎩	
 1f3aa.png	🎪
-1f3ab.png	🎫
-1f3ac.png	🎬
+1f3ab.png	🎫	
+1f3ac.png	🎬	
 1f3ad.png	🎭
 1f3ae.png	🎮
-1f3af.png	🎯
-1f3b0.png	🎰
-1f3b1.png	🎱
+1f3af.png	🎯	
+1f3b0.png	🎰	
+1f3b1.png	🎱	
 1f3b2.png	🎲
 1f3b3.png	🎳
 1f3b4.png	🎴
-1f3b5.png	🎵
-1f3b6.png	🎶
-1f3b7.png	🎷
-1f3b8.png	🎸
+1f3b5.png	🎵	
+1f3b6.png	🎶	
+1f3b7.png	🎷	
+1f3b8.png	🎸	
 1f3b9.png	🎹
-1f3ba.png	🎺
+1f3ba.png	🎺	
 1f3bb.png	🎻
 1f3bc.png	🎼
 1f3bd.png	🎽
-1f3be.png	🎾
-1f3bf.png	🎿
-1f3c0.png	🏀
-1f3c1.png	🏁
+1f3be.png	🎾	
+1f3bf.png	🎿	
+1f3c0.png	🏀	
+1f3c1.png	🏁	
 1f3c2.png	🏂
-1f3c3.png	🏃
-1f3c4.png	🏄
-1f3c6.png	🏆
-1f3c8.png	🏈
-1f3ca.png	🏊
-1f3e0.png	🏠
+1f3c3.png	🏃	
+1f3c4.png	🏄	
+1f3c6.png	🏆	
+1f3c8.png	🏈	
+1f3ca.png	🏊	
+1f3e0.png	🏠	
 1f3e1.png	🏡
-1f3e2.png	🏢
-1f3e3.png	🏣
-1f3e5.png	🏥
-1f3e6.png	🏦
-1f3e7.png	🏧
-1f3e8.png	🏨
-1f3e9.png	🏩
-1f3ea.png	🏪
-1f3eb.png	🏫
-1f3ec.png	🏬
-1f3ed.png	🏭
+1f3e2.png	🏢	
+1f3e3.png	🏣	
+1f3e5.png	🏥	
+1f3e6.png	🏦	
+1f3e7.png	🏧	
+1f3e8.png	🏨	
+1f3e9.png	🏩	
+1f3ea.png	🏪	
+1f3eb.png	🏫	
+1f3ec.png	🏬	
+1f3ed.png	🏭	
 1f3ee.png	🏮
-1f3ef.png	🏯
-1f3f0.png	🏰
+1f3ef.png	🏯	
+1f3f0.png	🏰	
 1f40c.png	🐌
-1f40d.png	🐍
-1f40e.png	🐎
-1f411.png	🐑
-1f412.png	🐒
-1f414.png	🐔
-1f417.png	🐗
-1f418.png	🐘
-1f419.png	🐙
-1f41a.png	🐚
-1f41b.png	🐛
+1f40d.png	🐍	
+1f40e.png	🐎	
+1f411.png	🐑	
+1f412.png	🐒	
+1f414.png	🐔	
+1f417.png	🐗	
+1f418.png	🐘	
+1f419.png	🐙	
+1f41a.png	🐚	
+1f41b.png	🐛	
 1f41c.png	🐜
 1f41d.png	🐝
 1f41e.png	🐞
-1f41f.png	🐟
-1f420.png	🐠
+1f41f.png	🐟	
+1f420.png	🐠	
 1f421.png	🐡
 1f422.png	🐢
 1f423.png	🐣
-1f424.png	🐤
+1f424.png	🐤	
 1f425.png	🐥
-1f426.png	🐦
-1f427.png	🐧
-1f428.png	🐨
+1f426.png	🐦	
+1f427.png	🐧	
+1f428.png	🐨	
 1f429.png	🐩
-1f42b.png	🐫
-1f42c.png	🐬
-1f42d.png	🐭
-1f42e.png	🐮
-1f42f.png	🐯
-1f430.png	🐰
-1f431.png	🐱
+1f42b.png	🐫	
+1f42c.png	🐬	
+1f42d.png	🐭	
+1f42e.png	🐮	
+1f42f.png	🐯	
+1f430.png	🐰	
+1f431.png	🐱	
 1f432.png	🐲
-1f433.png	🐳
-1f434.png	🐴
-1f435.png	🐵
-1f436.png	🐶
-1f437.png	🐷
-1f438.png	🐸
-1f439.png	🐹
-1f43a.png	🐺
-1f43b.png	🐻
+1f433.png	🐳	
+1f434.png	🐴	
+1f435.png	🐵	
+1f436.png	🐶	
+1f437.png	🐷	
+1f438.png	🐸	
+1f439.png	🐹	
+1f43a.png	🐺	
+1f43b.png	🐻	
 1f43c.png	🐼
 1f43d.png	🐽
 1f43e.png	🐾
-1f440.png	👀
-1f442.png	👂
-1f443.png	👃
-1f444.png	👄
+1f440.png	👀	
+1f442.png	👂	
+1f443.png	👃	
+1f444.png	👄	
 1f445.png	👅
-1f446.png	👆
-1f447.png	👇
-1f448.png	👈
-1f449.png	👉
-1f44a.png	👊
-1f44b.png	👋
-1f44c.png	👌
-1f44d.png	👍
-1f44e.png	👎
-1f44f.png	👏
-1f450.png	👐
-1f451.png	👑
-1f452.png	👒
+1f446.png	👆	
+1f447.png	👇	
+1f448.png	👈	
+1f449.png	👉	
+1f44a.png	👊	
+1f44b.png	👋	
+1f44c.png	👌	
+1f44d.png	👍	
+1f44e.png	👎	
+1f44f.png	👏	
+1f450.png	👐	
+1f451.png	👑	
+1f452.png	👒	
 1f453.png	👓
-1f454.png	👔
-1f455.png	👕
+1f454.png	👔	
+1f455.png	👕	
 1f456.png	👖
-1f457.png	👗
-1f458.png	👘
-1f459.png	👙
+1f457.png	👗	
+1f458.png	👘	
+1f459.png	👙	
 1f45a.png	👚
 1f45b.png	👛
-1f45c.png	👜
+1f45c.png	👜	
 1f45d.png	👝
 1f45e.png	👞
-1f45f.png	👟
-1f460.png	👠
-1f461.png	👡
-1f462.png	👢
-1f463.png	👣
+1f45f.png	👟	
+1f460.png	👠	
+1f461.png	👡	
+1f462.png	👢	
+1f463.png	👣	
 1f464.png	👤
-1f466.png	👦
-1f467.png	👧
-1f468.png	👨
-1f469.png	👩
+1f466.png	👦	
+1f467.png	👧	
+1f468.png	👨	
+1f469.png	👩	
 1f46a.png	👪
-1f46b.png	👫
-1f46e.png	👮
-1f46f.png	👯
+1f46b.png	👫	
+1f46e.png	👮	
+1f46f.png	👯	
 1f470.png	👰
-1f474.png	👴
-1f475.png	👵
-1f476.png	👶
-1f477.png	👷
-1f478.png	👸
+1f471.png	👱	
+1f472.png	👲	
+1f473.png	👳	
+1f474.png	👴	
+1f475.png	👵	
+1f476.png	👶	
+1f477.png	👷	
+1f478.png	👸	
 1f479.png	👹
 1f47a.png	👺
-1f47b.png	👻
-1f47c.png	👼
-1f47d.png	👽
-1f47e.png	👾
-1f47f.png	👿
-1f480.png	💀
-1f481.png	💁
-1f482.png	💂
-1f483.png	💃
-1f484.png	💄
-1f485.png	💅
-1f486.png	💆
-1f487.png	💇
-1f488.png	💈
-1f489.png	💉
-1f48a.png	💊
-1f48b.png	💋
+1f47b.png	👻	
+1f47c.png	👼	
+1f47d.png	👽	
+1f47e.png	👾	
+1f47f.png	👿	
+1f480.png	💀	
+1f481.png	💁	
+1f482.png	💂	
+1f483.png	💃	
+1f484.png	💄	
+1f485.png	💅	
+1f486.png	💆	
+1f487.png	💇	
+1f488.png	💈	
+1f489.png	💉	
+1f48a.png	💊	
+1f48b.png	💋	
 1f48c.png	💌
-1f48d.png	💍
-1f48e.png	💎
-1f48f.png	💏
-1f490.png	💐
-1f491.png	💑
-1f492.png	💒
-1f493.png	💓
-1f494.png	💔
+1f48d.png	💍	
+1f48e.png	💎	
+1f48f.png	💏	
+1f490.png	💐	
+1f491.png	💑	
+1f492.png	💒	
+1f493.png	💓	
+1f494.png	💔	
 1f495.png	💕
 1f496.png	💖
-1f497.png	💗
-1f498.png	💘
-1f499.png	💙
-1f49a.png	💚
-1f49b.png	💛
-1f49c.png	💜
-1f49d.png	💝
+1f497.png	💗	
+1f498.png	💘	
+1f499.png	💙	
+1f49a.png	💚	
+1f49b.png	💛	
+1f49c.png	💜	
+1f49d.png	💝	
 1f49e.png	💞
-1f49f.png	💟
+1f49f.png	💟	
 1f4a0.png	💠
-1f4a1.png	💡
-1f4a2.png	💢
-1f4a3.png	💣
-1f4a4.png	💤
+1f4a1.png	💡	
+1f4a2.png	💢	
+1f4a3.png	💣	
+1f4a4.png	💤	
 1f4a5.png	💥
-1f4a6.png	💦
+1f4a6.png	💦	
 1f4a7.png	💧
-1f4a8.png	💨
-1f4a9.png	💩
-1f4aa.png	💪
+1f4a8.png	💨	
+1f4a9.png	💩	
+1f4aa.png	💪	
 1f4ab.png	💫
 1f4ac.png	💬
 1f4ae.png	💮
 1f4af.png	💯
-1f4b0.png	💰
-1f4b1.png	💱
+1f4b0.png	💰	
+1f4b1.png	💱	
 1f4b2.png	💲
 1f4b3.png	💳
 1f4b4.png	💴
 1f4b5.png	💵
 1f4b8.png	💸
-1f4b9.png	💹
-1f4ba.png	💺
-1f4bb.png	💻
-1f4bc.png	💼
-1f4bd.png	💽
+1f4b9.png	💹	
+1f4ba.png	💺	
+1f4bb.png	💻	
+1f4bc.png	💼	
+1f4bd.png	💽	
 1f4be.png	💾
-1f4bf.png	💿
-1f4c0.png	📀
+1f4bf.png	💿	
+1f4c0.png	📀	
 1f4c1.png	📁
 1f4c2.png	📂
 1f4c3.png	📃
@@ -593,41 +672,45 @@ Author=Steffen Vogel
 1f4d3.png	📓
 1f4d4.png	📔
 1f4d5.png	📕
-1f4d6.png	📖
+1f4d6.png	📖	
 1f4d7.png	📗
 1f4d8.png	📘
 1f4d9.png	📙
 1f4da.png	📚
 1f4db.png	📛
 1f4dc.png	📜
-1f4dd.png	📝
+1f4dd.png	📝	
 1f4de.png	📞
 1f4df.png	📟
-1f4e0.png	📠
-1f4e1.png	📡
-1f4e2.png	📢
-1f4e3.png	📣
+1f4e0.png	📠	
+1f4e1.png	📡	
+1f4e2.png	📢	
+1f4e3.png	📣	
 1f4e4.png	📤
 1f4e5.png	📥
 1f4e6.png	📦
 1f4e7.png	📧
 1f4e8.png	📨
-1f4e9.png	📩
+1f4e9.png	📩	
 1f4ea.png	📪
-1f4eb.png	📫
-1f4ee.png	📮
+1f4eb.png	📫	
+1f4ee.png	📮	
 1f4f0.png	📰
-1f4f1.png	📱
-1f4f2.png	📲
-1f4f3.png	📳
-1f4f4.png	📴
-1f4f6.png	📶
-1f4f7.png	📷
+1f4f1.png	📱	
+1f4f2.png	📲	
+1f4f3.png	📳	
+1f4f4.png	📴	
+1f4f6.png	📶	
+1f4f7.png	📷	
 1f4f9.png	📹
-1f4fa.png	📺
-1f4fb.png	📻
-1f4fc.png	📼
+1f4fa.png	📺	
+1f4fb.png	📻	
+1f4fc.png	📼	
 1f503.png	🔃
+### FIXME: 1f508.png IS NOT IN THE SET OF PICTURES YET!
+### SEE: http://www.iemoji.com/view/emoji/275/events/raw-speaker-woofer
+### After adding it, please comment in the upcoming line.
+#1f508.png	🔈	
 1f50a.png	🔊
 1f50b.png	🔋
 1f50c.png	🔌
@@ -635,10 +718,10 @@ Author=Steffen Vogel
 1f50e.png	🔎
 1f50f.png	🔏
 1f510.png	🔐
-1f511.png	🔑
-1f512.png	🔒
-1f513.png	🔓
-1f514.png	🔔
+1f511.png	🔑	
+1f512.png	🔒	
+1f513.png	🔓	
+1f514.png	🔔	
 1f516.png	🔖
 1f517.png	🔗
 1f518.png	🔘
@@ -646,28 +729,28 @@ Author=Steffen Vogel
 1f51a.png	🔚
 1f51b.png	🔛
 1f51c.png	🔜
-1f51d.png	🔝
-1f51e.png	🔞
+1f51d.png	🔝	
+1f51e.png	🔞	
 1f51f.png	🔟
 1f520.png	🔠
 1f521.png	🔡
 1f522.png	🔢
 1f523.png	🔣
 1f524.png	🔤
-1f525.png	🔥
+1f525.png	🔥	
 1f526.png	🔦
 1f527.png	🔧
-1f528.png	🔨
+1f528.png	🔨	
 1f529.png	🔩
 1f52a.png	🔪
-1f52b.png	🔫
+1f52b.png	🔫	
 1f52e.png	🔮
-1f52f.png	🔯
-1f530.png	🔰
-1f531.png	🔱
-1f532.png	🔲
-1f533.png	🔳
-1f534.png	🔴
+1f52f.png	🔯	
+1f530.png	🔰	
+1f531.png	🔱	
+1f532.png	🔲	
+1f533.png	🔳	
+1f534.png	🔴	
 1f535.png	🔵
 1f536.png	🔶
 1f537.png	🔷
@@ -677,25 +760,130 @@ Author=Steffen Vogel
 1f53b.png	🔻
 1f53c.png	🔼
 1f53d.png	🔽
-1f550.png	🕐
-1f551.png	🕑
-1f552.png	🕒
-1f553.png	🕓
-1f554.png	🕔
-1f555.png	🕕
-1f556.png	🕖
-1f557.png	🕗
-1f558.png	🕘
-1f559.png	🕙
-1f55a.png	🕚
-1f55b.png	🕛
-1f5fb.png	🗻
-1f5fc.png	🗼
-1f5fd.png	🗽
+1f5fb.png	🗻	
+1f5fc.png	🗼	
+1f5fd.png	🗽	
 1f5fe.png	🗾
 1f5ff.png	🗿
+1f6ae.png	🚮
+1f6af.png	🚯
+1f6b0.png	🚰
+1f6b1.png	🚱
+1f6b3.png	🚳
+1f6b4.png	🚴
+1f6b5.png	🚵
+1f6b7.png	🚷
+1f6b8.png	🚸
+1f6bf.png	🚿
+1f6c1.png	🛁
+1f6c2.png	🛂
+1f6c3.png	🛃
+1f6c4.png	🛄
+1f6c5.png	🛅
+1f31e.png	🌞
+1f332.png	🌲
+1f333.png	🌳
+1f34b.png	🍋
+1f350.png	🍐
+1f37c.png	🍼
+1f3c7.png	🏇
+1f3c9.png	🏉
+1f3e4.png	🏤
+1f400.png	🐀
+1f401.png	🐁
+1f402.png	🐂
+1f403.png	🐃
+1f404.png	🐄
+1f405.png	🐅
+1f406.png	🐆
+1f407.png	🐇
+1f408.png	🐈
+1f409.png	🐉
+1f40a.png	🐊
+1f40b.png	🐋
+1f40f.png	🐏
+1f410.png	🐐
+1f413.png	🐓
+1f415.png	🐕
+1f416.png	🐖
+1f42a.png	🐪
+1f465.png	👥
+1f46c.png	👬
+1f46d.png	👭
+1f4ad.png	💭
+1f4b6.png	💶
+1f4b7.png	💷
+1f4ec.png	📬
+1f4ed.png	📭
+1f4ef.png	📯
+1f4f5.png	📵
+
+1f505.png	🔅
+1f506.png	🔆
+1f507.png	🔇
+1f509.png	🔉
+1f515.png	🔕
+1f52c.png	🔬
+1f52d.png	🔭
+
+1f550.png	🕐	
+1f55c.png	🕜
+1f551.png	🕑	
+1f55d.png	🕝
+1f552.png	🕒	
+1f55e.png	🕞
+1f553.png	🕓	
+1f55f.png	🕟
+1f554.png	🕔	
+1f560.png	🕠
+1f555.png	🕕	
+1f561.png	🕡
+1f556.png	🕖	
+1f562.png	🕢
+1f557.png	🕗	
+1f563.png	🕣
+1f558.png	🕘	
+1f564.png	🕤
+1f559.png	🕙	
+1f565.png	🕥
+1f55a.png	🕚	
+1f566.png	🕦
+1f55b.png	🕛	
+1f567.png	🕧
+
+1f311.png	🌑
+1f31a.png	🌚
+1f313.png	🌓
+1f317.png	🌗
+1f318.png	🌘
+1f314.png	🌔
+1f316.png	🌖
+1f312.png	🌒
+1f315.png	🌕
+1f319.png	🌙	
+1f31b.png	🌛
+1f31f.png	🌟	
+1f31c.png	🌜
+1f31d.png	🌝
+
+1f30f.png	🌏
+1f30d.png	🌍
+1f30e.png	🌎
+1f310.png	🌐
+
+1f1e9-1f1ea.png	🇩🇪	
+1f1ec-1f1e7.png	🇬🇧	
+1f1e8-1f1f3.png	🇨🇳	
+1f1ef-1f1f5.png	🇯🇵	
+1f1f0-1f1f7.png	🇰🇷	
+1f1eb-1f1f7.png	🇫🇷	
+1f1ea-1f1f8.png	🇪🇸	
+1f1ee-1f1f9.png	🇮🇹	
+1f1fa-1f1f8.png	🇺🇸	
+1f1f7-1f1fa.png	🇷🇺	
 
 [MightyText]
+263a.png	%E2%98%BA%EF%B8%8F
 1f601.png	%F0%9F%98%81
 1f602.png	%F0%9F%98%82
 1f603.png	%F0%9F%98%83
@@ -726,7 +914,7 @@ Author=Steffen Vogel
 1f628.png	%F0%9F%98%A8
 1f629.png	%F0%9F%98%A9
 1f62a.png	%F0%9F%98%AA
-1f62b.png	%F0%9F%98%AB
+1f62b.png	%F0%9F%98%AB%20
 1f62d.png	%F0%9F%98%AD
 1f630.png	%F0%9F%98%B0
 1f631.png	%F0%9F%98%B1
@@ -734,6 +922,25 @@ Author=Steffen Vogel
 1f633.png	%F0%9F%98%B3
 1f635.png	%F0%9F%98%B5
 1f637.png	%F0%9F%98%B7
+1f600.png	%F0%9F%98%80
+1f607.png	%F0%9F%98%87
+1f608.png	%F0%9F%98%88
+1f60e.png	%F0%9F%98%8E
+1f610.png	%F0%9F%98%90
+1f611.png	%F0%9F%98%91
+1f615.png	%F0%9F%98%95
+1f617.png	%F0%9F%98%97
+1f619.png	%F0%9F%98%99
+1f61b.png	%F0%9F%98%9B
+1f61f.png	%F0%9F%98%9F
+1f626.png	%F0%9F%98%A6
+1f627.png	%F0%9F%98%A7
+1f62c.png	%F0%9F%98%AC
+1f62e.png	%F0%9F%98%AE
+1f62f.png	%F0%9F%98%AF
+1f634.png	%F0%9F%98%B4
+1f636.png	%F0%9F%98%B6
+	
 1f638.png	%F0%9F%98%B8
 1f639.png	%F0%9F%98%B9
 1f63a.png	%F0%9F%98%BA
@@ -743,6 +950,7 @@ Author=Steffen Vogel
 1f63e.png	%F0%9F%98%BE
 1f63f.png	%F0%9F%98%BF
 1f640.png	%F0%9F%99%80
+	
 1f645.png	%F0%9F%99%85
 1f646.png	%F0%9F%99%86
 1f647.png	%F0%9F%99%87
@@ -754,6 +962,7 @@ Author=Steffen Vogel
 1f64d.png	%F0%9F%99%8D
 1f64e.png	%F0%9F%99%8E
 1f64f.png	%F0%9F%99%8F
+	
 2702.png	%E2%9C%82
 2705.png	%E2%9C%85
 2708.png	%E2%9C%88
@@ -782,32 +991,14 @@ Author=Steffen Vogel
 2797.png	%E2%9E%97
 27a1.png	%E2%9E%A1
 27b0.png	%E2%9E%B0
-1f680.png	%F0%9F%9A%80
-1f683.png	%F0%9F%9A%83
-1f684.png	%F0%9F%9A%84
-1f685.png	%F0%9F%9A%85
-1f687.png	%F0%9F%9A%87
-1f689.png	%F0%9F%9A%89
-1f68c.png	%F0%9F%9A%8C
-1f68f.png	%F0%9F%9A%8F
-1f691.png	%F0%9F%9A%91
-1f692.png	%F0%9F%9A%92
-1f693.png	%F0%9F%9A%93
-1f695.png	%F0%9F%9A%95
-1f697.png	%F0%9F%9A%97
-1f699.png	%F0%9F%9A%99
-1f69a.png	%F0%9F%9A%9A
-1f6a2.png	%F0%9F%9A%A2
-1f6a4.png	%F0%9F%9A%A4
-1f6a5.png	%F0%9F%9A%A5
-1f6a7.png	%F0%9F%9A%A7
-1f6a8.png	%F0%9F%9A%A8
+	
 1f6a9.png	%F0%9F%9A%A9
 1f6aa.png	%F0%9F%9A%AA
 1f6ab.png	%F0%9F%9A%AB
+26d4.png	%E2%9B%94
 1f6ac.png	%F0%9F%9A%AC
 1f6ad.png	%F0%9F%9A%AD
-1f6b2.png	%F0%9F%9A%B2
+	
 1f6b6.png	%F0%9F%9A%B6
 1f6b9.png	%F0%9F%9A%B9
 1f6ba.png	%F0%9F%9A%BA
@@ -851,6 +1042,17 @@ Author=Steffen Vogel
 00ae.png	%C2%AE
 203c.png	%E2%80%BC
 2049.png	%E2%81%89
+0038-20e3.png	%38%E2%83%A3
+0039-20e3.png	%39%E2%83%A3
+0037-20e3.png	%37%E2%83%A3
+0036-20e3.png	%36%E2%83%A3
+0031-20e3.png	%31%E2%83%A3
+0030-20e3.png	%30%E2%83%A3
+0032-20e3.png	%32%E2%83%A3
+0033-20e3.png	%33%E2%83%A3
+0035-20e3.png	%35%E2%83%A3
+0034-20e3.png	%34%E2%83%A3
+0023-20e3.png	%23%E2%83%A3
 2122.png	%E2%84%A2
 2139.png	%E2%84%B9
 2194.png	%E2%86%94
@@ -861,14 +1063,25 @@ Author=Steffen Vogel
 2199.png	%E2%86%99
 21a9.png	%E2%86%A9
 21aa.png	%E2%86%AA
-231a.png	%E2%8C%9A
-231b.png	%E2%8C%9B
 23e9.png	%E2%8F%A9
 23ea.png	%E2%8F%AA
 23eb.png	%E2%8F%AB
 23ec.png	%E2%8F%AC
+2934.png	%E2%A4%B4
+2935.png	%E2%A4%B5
+2b05.png	%E2%AC%85
+2b06.png	%E2%AC%86
+2b07.png	%E2%AC%87
+1f500.png	%F0%9F%94%80
+1f501.png	%F0%9F%94%81
+1f502.png	%F0%9F%94%82
+1f504.png	%F0%9F%94%84
+	
+231a.png	%E2%8C%9A
+231b.png	%E2%8C%9B
 23f0.png	%E2%8F%B0
 23f3.png	%E2%8F%B3
+	
 25aa.png	%E2%96%AA
 25ab.png	%E2%96%AB
 25b6.png	%E2%96%B6
@@ -879,7 +1092,12 @@ Author=Steffen Vogel
 25fe.png	%E2%97%BE
 2600.png	%E2%98%80
 2601.png	%E2%98%81
-263a.png	%E2%98%BA%EF%B8%8F
+260e.png	%E2%98%8E
+2611.png	%E2%98%91
+2614.png	%E2%98%94
+2615.png	%E2%98%95
+261d.png	%E2%98%9D
+	
 2648.png	%E2%99%88
 2649.png	%E2%99%89
 264a.png	%E2%99%8A
@@ -904,23 +1122,62 @@ Author=Steffen Vogel
 26a1.png	%E2%9A%A1
 26aa.png	%E2%9A%AA
 26ab.png	%E2%9A%AB
+	
 26bd.png	%E2%9A%BD
 26be.png	%E2%9A%BE
 26c4.png	%E2%9B%84
 26c5.png	%E2%9B%85
 26ce.png	%E2%9B%8E
-26d4.png	%E2%9B%94
+	
+	
 26ea.png	%E2%9B%AA
 26f2.png	%E2%9B%B2
 26f3.png	%E2%9B%B3
 26f5.png	%E2%9B%B5
 26fa.png	%E2%9B%BA
 26fd.png	%E2%9B%BD
-2934.png	%E2%A4%B4
-2935.png	%E2%A4%B5
-2b05.png	%E2%AC%85
-2b06.png	%E2%AC%86
-2b07.png	%E2%AC%87
+1f6b2.png	%F0%9F%9A%B2
+1f680.png	%F0%9F%9A%80
+1f683.png	%F0%9F%9A%83
+1f684.png	%F0%9F%9A%84
+1f685.png	%F0%9F%9A%85
+1f687.png	%F0%9F%9A%87
+1f689.png	%F0%9F%9A%89
+1f68c.png	%F0%9F%9A%8C
+1f68f.png	%F0%9F%9A%8F
+1f691.png	%F0%9F%9A%91
+1f692.png	%F0%9F%9A%92
+1f693.png	%F0%9F%9A%93
+1f695.png	%F0%9F%9A%95
+1f697.png	%F0%9F%9A%97
+1f699.png	%F0%9F%9A%99
+1f69a.png	%F0%9F%9A%9A
+1f6a2.png	%F0%9F%9A%A2
+1f6a4.png	%F0%9F%9A%A4
+1f6a5.png	%F0%9F%9A%A5
+1f6a6.png	%F0%9F%9A%A6
+1f6a7.png	%F0%9F%9A%A7
+1f6a8.png	%F0%9F%9A%A8
+1f681.png	%F0%9F%9A%81
+1f682.png	%F0%9F%9A%82
+1f686.png	%F0%9F%9A%86
+1f688.png	%F0%9F%9A%88
+1f68a.png	%F0%9F%9A%8A
+1f68d.png	%F0%9F%9A%8D
+1f68e.png	%F0%9F%9A%8E
+1f690.png	%F0%9F%9A%90
+1f694.png	%F0%9F%9A%94
+1f696.png	%F0%9F%9A%96
+1f698.png	%F0%9F%9A%98
+1f69b.png	%F0%9F%9A%9B
+1f69c.png	%F0%9F%9A%9C
+1f69d.png	%F0%9F%9A%9D
+1f69e.png	%F0%9F%9A%9E
+1f69f.png	%F0%9F%9A%9F
+1f6a0.png	%F0%9F%9A%A0
+1f6a1.png	%F0%9F%9A%A1
+1f6a3.png	%F0%9F%9A%A3
+	
 2b1b.png	%E2%AC%9B
 2b1c.png	%E2%AC%9C
 2b50.png	%E2%AD%90
@@ -934,6 +1191,7 @@ Author=Steffen Vogel
 1f300.png	%F0%9F%8C%80
 1f301.png	%F0%9F%8C%81
 1f302.png	%F0%9F%8C%82
+	
 1f303.png	%F0%9F%8C%83
 1f304.png	%F0%9F%8C%84
 1f305.png	%F0%9F%8C%85
@@ -942,17 +1200,9 @@ Author=Steffen Vogel
 1f308.png	%F0%9F%8C%88
 1f309.png	%F0%9F%8C%89
 1f30a.png	%F0%9F%8C%8A
+	
 1f30b.png	%F0%9F%8C%8B
 1f30c.png	%F0%9F%8C%8C
-1f30f.png	%F0%9F%8C%8F
-1f311.png	%F0%9F%8C%91
-1f313.png	%F0%9F%8C%93
-1f314.png	%F0%9F%8C%94
-1f315.png	%F0%9F%8C%95
-1f319.png	%F0%9F%8C%99
-1f31b.png	%F0%9F%8C%9B
-1f31f.png	%F0%9F%8C%9F
-1f320.png	%F0%9F%8C%A0
 1f330.png	%F0%9F%8C%B0
 1f331.png	%F0%9F%8C%B1
 1f334.png	%F0%9F%8C%B4
@@ -970,6 +1220,7 @@ Author=Steffen Vogel
 1f341.png	%F0%9F%8D%81
 1f342.png	%F0%9F%8D%82
 1f343.png	%F0%9F%8D%83
+	
 1f344.png	%F0%9F%8D%84
 1f345.png	%F0%9F%8D%85
 1f346.png	%F0%9F%8D%86
@@ -1017,6 +1268,7 @@ Author=Steffen Vogel
 1f372.png	%F0%9F%8D%B2
 1f373.png	%F0%9F%8D%B3
 1f374.png	%F0%9F%8D%B4
+	
 1f375.png	%F0%9F%8D%B5
 1f376.png	%F0%9F%8D%B6
 1f377.png	%F0%9F%8D%B7
@@ -1024,6 +1276,7 @@ Author=Steffen Vogel
 1f379.png	%F0%9F%8D%B9
 1f37a.png	%F0%9F%8D%BA
 1f37b.png	%F0%9F%8D%BB
+	
 1f380.png	%F0%9F%8E%80
 1f381.png	%F0%9F%8E%81
 1f382.png	%F0%9F%8E%82
@@ -1042,8 +1295,10 @@ Author=Steffen Vogel
 1f38f.png	%F0%9F%8E%8F
 1f390.png	%F0%9F%8E%90
 1f391.png	%F0%9F%8E%91
+	
 1f392.png	%F0%9F%8E%92
 1f393.png	%F0%9F%8E%93
+	
 1f3a0.png	%F0%9F%8E%A0
 1f3a1.png	%F0%9F%8E%A1
 1f3a2.png	%F0%9F%8E%A2
@@ -1190,6 +1445,9 @@ Author=Steffen Vogel
 1f46e.png	%F0%9F%91%AE
 1f46f.png	%F0%9F%91%AF
 1f470.png	%F0%9F%91%B0
+1f471.png	%F0%9F%91%B1
+1f472.png	%F0%9F%91%B2
+1f473.png	%F0%9F%91%B3
 1f474.png	%F0%9F%91%B4
 1f475.png	%F0%9F%91%B5
 1f476.png	%F0%9F%91%B6
@@ -1369,20 +1627,124 @@ Author=Steffen Vogel
 1f53b.png	%F0%9F%94%BB
 1f53c.png	%F0%9F%94%BC
 1f53d.png	%F0%9F%94%BD
-1f550.png	%F0%9F%95%90
-1f551.png	%F0%9F%95%91
-1f552.png	%F0%9F%95%92
-1f553.png	%F0%9F%95%93
-1f554.png	%F0%9F%95%94
-1f555.png	%F0%9F%95%95
-1f556.png	%F0%9F%95%96
-1f557.png	%F0%9F%95%97
-1f558.png	%F0%9F%95%98
-1f559.png	%F0%9F%95%99
-1f55a.png	%F0%9F%95%9A
-1f55b.png	%F0%9F%95%9B
 1f5fb.png	%F0%9F%97%BB
 1f5fc.png	%F0%9F%97%BC
 1f5fd.png	%F0%9F%97%BD
 1f5fe.png	%F0%9F%97%BE
 1f5ff.png	%F0%9F%97%BF
+1f6ae.png	%F0%9F%9A%AE
+1f6af.png	%F0%9F%9A%AF
+1f6b0.png	%F0%9F%9A%B0
+1f6b1.png	%F0%9F%9A%B1
+1f6b3.png	%F0%9F%9A%B3
+1f6b4.png	%F0%9F%9A%B4
+1f6b5.png	%F0%9F%9A%B5
+1f6b7.png	%F0%9F%9A%B7
+1f6b8.png	%F0%9F%9A%B8
+1f6bf.png	%F0%9F%9A%BF
+1f6c1.png	%F0%9F%9B%81
+1f6c2.png	%F0%9F%9B%82
+1f6c3.png	%F0%9F%9B%83
+1f6c4.png	%F0%9F%9B%84
+1f6c5.png	%F0%9F%9B%85
+1f31e.png	%F0%9F%8C%9E
+1f332.png	%F0%9F%8C%B2
+1f333.png	%F0%9F%8C%B3
+1f34b.png	%F0%9F%8D%8B
+1f350.png	%F0%9F%8D%90
+1f37c.png	%F0%9F%8D%BC
+1f3c7.png	%F0%9F%8F%87
+1f3c9.png	%F0%9F%8F%89
+1f3e4.png	%F0%9F%8F%A4
+1f400.png	%F0%9F%90%80
+1f401.png	%F0%9F%90%81
+1f402.png	%F0%9F%90%82
+1f403.png	%F0%9F%90%83
+1f404.png	%F0%9F%90%84
+1f405.png	%F0%9F%90%85
+1f406.png	%F0%9F%90%86
+1f407.png	%F0%9F%90%87
+1f408.png	%F0%9F%90%88
+1f409.png	%F0%9F%90%89
+1f40a.png	%F0%9F%90%8A
+1f40b.png	%F0%9F%90%8B
+1f40f.png	%F0%9F%90%8F
+1f410.png	%F0%9F%90%90
+1f413.png	%F0%9F%90%93
+1f415.png	%F0%9F%90%95
+1f416.png	%F0%9F%90%96
+1f42a.png	%F0%9F%90%AA
+1f465.png	%F0%9F%91%A5
+1f46c.png	%F0%9F%91%AC
+1f46d.png	%F0%9F%91%AD
+1f4ad.png	%F0%9F%92%AD
+1f4b6.png	%F0%9F%92%B6
+1f4b7.png	%F0%9F%92%B7
+1f4ec.png	%F0%9F%93%AC
+1f4ed.png	%F0%9F%93%AD
+1f4ef.png	%F0%9F%93%AF
+1f4f5.png	%F0%9F%93%B5
+	
+1f505.png	%F0%9F%94%85
+1f506.png	%F0%9F%94%86
+1f507.png	%F0%9F%94%87
+1f509.png	%F0%9F%94%89
+1f515.png	%F0%9F%94%95
+1f52c.png	%F0%9F%94%AC
+1f52d.png	%F0%9F%94%AD
+	
+1f550.png	%F0%9F%95%90
+1f55c.png	%F0%9F%95%9C
+1f551.png	%F0%9F%95%91
+1f55d.png	%F0%9F%95%9D
+1f552.png	%F0%9F%95%92
+1f55e.png	%F0%9F%95%9E
+1f553.png	%F0%9F%95%93
+1f55f.png	%F0%9F%95%9F
+1f554.png	%F0%9F%95%94
+1f560.png	%F0%9F%95%A0
+1f555.png	%F0%9F%95%95
+1f561.png	%F0%9F%95%A1
+1f556.png	%F0%9F%95%96
+1f562.png	%F0%9F%95%A2
+1f557.png	%F0%9F%95%97
+1f563.png	%F0%9F%95%A3
+1f558.png	%F0%9F%95%98
+1f564.png	%F0%9F%95%A4
+1f559.png	%F0%9F%95%99
+1f565.png	%F0%9F%95%A5
+1f55a.png	%F0%9F%95%9A
+1f566.png	%F0%9F%95%A6
+1f55b.png	%F0%9F%95%9B
+1f567.png	%F0%9F%95%A7
+	
+1f311.png	%F0%9F%8C%91
+1f31a.png	%F0%9F%8C%9A
+1f313.png	%F0%9F%8C%93
+1f317.png	%F0%9F%8C%97
+1f318.png	%F0%9F%8C%98
+1f314.png	%F0%9F%8C%94
+1f316.png	%F0%9F%8C%96
+1f312.png	%F0%9F%8C%92
+1f315.png	%F0%9F%8C%95
+1f319.png	%F0%9F%8C%99
+1f31b.png	%F0%9F%8C%9B
+1f31f.png	%F0%9F%8C%9F
+1f31c.png	%F0%9F%8C%9C
+1f31d.png	%F0%9F%8C%9D
+	
+1f30f.png	%F0%9F%8C%8F
+1f30d.png	%F0%9F%8C%8D
+1f30e.png	%F0%9F%8C%8E
+1f310.png	%F0%9F%8C%90
+	
+1f1e9-1f1ea.png	%F0%9F%87%A9%F0%9F%87%AA
+1f1ec-1f1e7.png	%F0%9F%87%AC%F0%9F%87%A7
+1f1e8-1f1f3.png	%F0%9F%87%A8%F0%9F%87%B3
+1f1ef-1f1f5.png	%F0%9F%87%AF%F0%9F%87%B5
+1f1f0-1f1f7.png	%F0%9F%87%B0%F0%9F%87%B7
+1f1eb-1f1f7.png	%F0%9F%87%AB%F0%9F%87%B7
+1f1ea-1f1f8.png	%F0%9F%87%AA%F0%9F%87%B8
+1f1ee-1f1f9.png	%F0%9F%87%AE%F0%9F%87%B9
+1f1fa-1f1f8.png	%F0%9F%87%BA%F0%9F%87%B8
+1f1f7-1f1fa.png	%F0%9F%87%B7%F0%9F%87%BA
