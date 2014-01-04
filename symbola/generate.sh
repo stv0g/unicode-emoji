@@ -9,7 +9,7 @@ cat symbols.txt | while read SYM; do
 	convert -size 25x25 \
 		xc:none \
 		-fill black \
-		-font Symbola-Regular \
+		-font Symbola \
 		-gravity center \
 		-pointsize 25 \
 		-annotate +0+0 "${FSYM}" \
