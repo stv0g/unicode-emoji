@@ -9,7 +9,7 @@ cat symbols.txt | while read SYM; do
 	convert -size 25x25 \
 		xc:none \
 		-fill black \
-		-font Android-Emoji-Regular \
+		-font Android-Emoji \
 		-gravity center \
 		-pointsize 22 \
 		-annotate +3+0 "${FSYM}" \

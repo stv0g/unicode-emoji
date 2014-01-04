@@ -1,5 +1,5 @@
-Name=Apple Color Emoji
-Description=Original Apple Emoji mapping to Unicode 6 characters
+Name=Symbola Emoji
+Description=Original Unicode Emojis mapping to Unicode 6 characters
 Icon=1f601.png
 Author=Steffen Vogel
 
@@ -112,10 +112,7 @@ Author=Steffen Vogel
 2797.png	➗
 27a1.png	➡	
 27b0.png	➰
-### FIXME: 27bf.png IS NOT IN THE SET OF PICTURES YET!
-### See: http://www.iemoji.com/view/emoji/280/symbols/double-curly-loop
-### After adding it, please comment in the upcoming line.
-#27bf.png	➿	
+27bf.png	➿	
 
 1f6a9.png	🚩
 1f6aa.png	🚪
@@ -268,10 +265,7 @@ Author=Steffen Vogel
 1f685.png	🚅	
 1f687.png	🚇	
 1f689.png	🚉	
-### FIXME: 1f68b.png IS NOT IN THE SET OF PICTURES YET!
-### SEE: http://www.iemoji.com/view/emoji/156/places/tram-car
-### After adding it, please comment in the upcoming line.
-#1f68b.png	🚋	
+1f68b.png	🚋	
 1f68c.png	🚌	
 1f68f.png	🚏	
 1f691.png	🚑	
@@ -707,10 +701,7 @@ Author=Steffen Vogel
 1f4fb.png	📻	
 1f4fc.png	📼	
 1f503.png	🔃
-### FIXME: 1f508.png IS NOT IN THE SET OF PICTURES YET!
-### SEE: http://www.iemoji.com/view/emoji/275/events/raw-speaker-woofer
-### After adding it, please comment in the upcoming line.
-#1f508.png	🔈	
+1f508.png	🔈	
 1f50a.png	🔊
 1f50b.png	🔋
 1f50c.png	🔌
@@ -940,7 +931,7 @@ Author=Steffen Vogel
 1f62f.png	%F0%9F%98%AF
 1f634.png	%F0%9F%98%B4
 1f636.png	%F0%9F%98%B6
-	
+
 1f638.png	%F0%9F%98%B8
 1f639.png	%F0%9F%98%B9
 1f63a.png	%F0%9F%98%BA
@@ -950,7 +941,7 @@ Author=Steffen Vogel
 1f63e.png	%F0%9F%98%BE
 1f63f.png	%F0%9F%98%BF
 1f640.png	%F0%9F%99%80
-	
+
 1f645.png	%F0%9F%99%85
 1f646.png	%F0%9F%99%86
 1f647.png	%F0%9F%99%87
@@ -962,7 +953,7 @@ Author=Steffen Vogel
 1f64d.png	%F0%9F%99%8D
 1f64e.png	%F0%9F%99%8E
 1f64f.png	%F0%9F%99%8F
-	
+
 2702.png	%E2%9C%82
 2705.png	%E2%9C%85
 2708.png	%E2%9C%88
@@ -991,14 +982,14 @@ Author=Steffen Vogel
 2797.png	%E2%9E%97
 27a1.png	%E2%9E%A1
 27b0.png	%E2%9E%B0
-	
+
 1f6a9.png	%F0%9F%9A%A9
 1f6aa.png	%F0%9F%9A%AA
 1f6ab.png	%F0%9F%9A%AB
 26d4.png	%E2%9B%94
 1f6ac.png	%F0%9F%9A%AC
 1f6ad.png	%F0%9F%9A%AD
-	
+
 1f6b6.png	%F0%9F%9A%B6
 1f6b9.png	%F0%9F%9A%B9
 1f6ba.png	%F0%9F%9A%BA
@@ -1076,12 +1067,12 @@ Author=Steffen Vogel
 1f501.png	%F0%9F%94%81
 1f502.png	%F0%9F%94%82
 1f504.png	%F0%9F%94%84
-	
+
 231a.png	%E2%8C%9A
 231b.png	%E2%8C%9B
 23f0.png	%E2%8F%B0
 23f3.png	%E2%8F%B3
-	
+
 25aa.png	%E2%96%AA
 25ab.png	%E2%96%AB
 25b6.png	%E2%96%B6
@@ -1097,7 +1088,7 @@ Author=Steffen Vogel
 2614.png	%E2%98%94
 2615.png	%E2%98%95
 261d.png	%E2%98%9D
-	
+
 2648.png	%E2%99%88
 2649.png	%E2%99%89
 264a.png	%E2%99%8A
@@ -1122,14 +1113,14 @@ Author=Steffen Vogel
 26a1.png	%E2%9A%A1
 26aa.png	%E2%9A%AA
 26ab.png	%E2%9A%AB
-	
+
 26bd.png	%E2%9A%BD
 26be.png	%E2%9A%BE
 26c4.png	%E2%9B%84
 26c5.png	%E2%9B%85
 26ce.png	%E2%9B%8E
-	
-	
+
+
 26ea.png	%E2%9B%AA
 26f2.png	%E2%9B%B2
 26f3.png	%E2%9B%B3
@@ -1177,7 +1168,7 @@ Author=Steffen Vogel
 1f6a0.png	%F0%9F%9A%A0
 1f6a1.png	%F0%9F%9A%A1
 1f6a3.png	%F0%9F%9A%A3
-	
+
 2b1b.png	%E2%AC%9B
 2b1c.png	%E2%AC%9C
 2b50.png	%E2%AD%90
@@ -1191,7 +1182,7 @@ Author=Steffen Vogel
 1f300.png	%F0%9F%8C%80
 1f301.png	%F0%9F%8C%81
 1f302.png	%F0%9F%8C%82
-	
+
 1f303.png	%F0%9F%8C%83
 1f304.png	%F0%9F%8C%84
 1f305.png	%F0%9F%8C%85
@@ -1200,7 +1191,7 @@ Author=Steffen Vogel
 1f308.png	%F0%9F%8C%88
 1f309.png	%F0%9F%8C%89
 1f30a.png	%F0%9F%8C%8A
-	
+
 1f30b.png	%F0%9F%8C%8B
 1f30c.png	%F0%9F%8C%8C
 1f330.png	%F0%9F%8C%B0
@@ -1220,7 +1211,7 @@ Author=Steffen Vogel
 1f341.png	%F0%9F%8D%81
 1f342.png	%F0%9F%8D%82
 1f343.png	%F0%9F%8D%83
-	
+
 1f344.png	%F0%9F%8D%84
 1f345.png	%F0%9F%8D%85
 1f346.png	%F0%9F%8D%86
@@ -1268,7 +1259,7 @@ Author=Steffen Vogel
 1f372.png	%F0%9F%8D%B2
 1f373.png	%F0%9F%8D%B3
 1f374.png	%F0%9F%8D%B4
-	
+
 1f375.png	%F0%9F%8D%B5
 1f376.png	%F0%9F%8D%B6
 1f377.png	%F0%9F%8D%B7
@@ -1276,7 +1267,7 @@ Author=Steffen Vogel
 1f379.png	%F0%9F%8D%B9
 1f37a.png	%F0%9F%8D%BA
 1f37b.png	%F0%9F%8D%BB
-	
+
 1f380.png	%F0%9F%8E%80
 1f381.png	%F0%9F%8E%81
 1f382.png	%F0%9F%8E%82
@@ -1295,10 +1286,10 @@ Author=Steffen Vogel
 1f38f.png	%F0%9F%8E%8F
 1f390.png	%F0%9F%8E%90
 1f391.png	%F0%9F%8E%91
-	
+
 1f392.png	%F0%9F%8E%92
 1f393.png	%F0%9F%8E%93
-	
+
 1f3a0.png	%F0%9F%8E%A0
 1f3a1.png	%F0%9F%8E%A1
 1f3a2.png	%F0%9F%8E%A2
@@ -1684,7 +1675,7 @@ Author=Steffen Vogel
 1f4ed.png	%F0%9F%93%AD
 1f4ef.png	%F0%9F%93%AF
 1f4f5.png	%F0%9F%93%B5
-	
+
 1f505.png	%F0%9F%94%85
 1f506.png	%F0%9F%94%86
 1f507.png	%F0%9F%94%87
@@ -1692,7 +1683,7 @@ Author=Steffen Vogel
 1f515.png	%F0%9F%94%95
 1f52c.png	%F0%9F%94%AC
 1f52d.png	%F0%9F%94%AD
-	
+
 1f550.png	%F0%9F%95%90
 1f55c.png	%F0%9F%95%9C
 1f551.png	%F0%9F%95%91
@@ -1717,7 +1708,7 @@ Author=Steffen Vogel
 1f566.png	%F0%9F%95%A6
 1f55b.png	%F0%9F%95%9B
 1f567.png	%F0%9F%95%A7
-	
+
 1f311.png	%F0%9F%8C%91
 1f31a.png	%F0%9F%8C%9A
 1f313.png	%F0%9F%8C%93
@@ -1732,12 +1723,12 @@ Author=Steffen Vogel
 1f31f.png	%F0%9F%8C%9F
 1f31c.png	%F0%9F%8C%9C
 1f31d.png	%F0%9F%8C%9D
-	
+
 1f30f.png	%F0%9F%8C%8F
 1f30d.png	%F0%9F%8C%8D
 1f30e.png	%F0%9F%8C%8E
 1f310.png	%F0%9F%8C%90
-	
+
 1f1e9-1f1ea.png	%F0%9F%87%A9%F0%9F%87%AA
 1f1ec-1f1e7.png	%F0%9F%87%AC%F0%9F%87%A7
 1f1e8-1f1f3.png	%F0%9F%87%A8%F0%9F%87%B3
