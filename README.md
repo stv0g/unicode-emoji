@@ -24,7 +24,7 @@ Thanks to [nobuyukinyuu](https://github.com/nobuyukinyuu/pidgin-emoji) for the H
 
 #### Links
 
+- http://emojipedia.org
+- http://emojione.com
 - http://www.unicode.org/emoji/charts/index.html
-- http://www.unicode.org/Public/emoji/2.0//emoji-data.txt
-- http://www.unicode.org/Public/emoji/2.0//emoji-sequences.txt
-- http://www.unicode.org/Public/emoji/2.0//emoji-zwj-sequences.txt
+- http://www.unicode.org/emoji/charts/full-emoji-list.html
