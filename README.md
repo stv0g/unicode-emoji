@@ -26,5 +26,6 @@ Thanks to [nobuyukinyuu](https://github.com/nobuyukinyuu/pidgin-emoji) for the H
 
 - http://emojipedia.org
 - http://emojione.com
+- http://apps.timwhitlock.info/emoji/tables/unicode
 - http://www.unicode.org/emoji/charts/index.html
 - http://www.unicode.org/emoji/charts/full-emoji-list.html
