@@ -21,3 +21,10 @@ Google Noto Fonts [licensed under SIL Open Font License, Version 1.1](http://scr
 
 Thanks to [nobuyukinyuu](https://github.com/nobuyukinyuu/pidgin-emoji) for the Hangouts and Twitter emojis.
 
+
+#### Links
+
+- http://www.unicode.org/emoji/charts/index.html
+- http://www.unicode.org/Public/emoji/2.0//emoji-data.txt
+- http://www.unicode.org/Public/emoji/2.0//emoji-sequences.txt
+- http://www.unicode.org/Public/emoji/2.0//emoji-zwj-sequences.txt
